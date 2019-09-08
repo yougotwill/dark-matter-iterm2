@@ -10,6 +10,17 @@ A port of the brilliant [Gray Matter](https://github.com/philipbelesky/gray-matt
 
 ![screenshot](assets/gray-matter-dark.png)
 
+## How to install
+
+1. Launch iTerm2.
+2. Go to `Preferences`.
+3. Choose `Profiles`.
+4. Go to  `Colors` tab.
+5. Click on `Color Presets`.
+6. Choose `Import...`.
+7. Select `Gray Matter Light.itermcolors` or `Gray Matter Dark.itermcolors`.
+8. Click on `Color Presets` again and choose `Gray Matter Light` or `Gray Matter Dark`.
+
 ## Todo
 
 - [x] Gray Matter Dark
